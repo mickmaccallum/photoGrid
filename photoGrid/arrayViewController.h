@@ -4,7 +4,10 @@
 //  NO COPYRIGHT AND ABSOLUTELY NO WARRANTY EXPRESSED OR IMPLIED
 //
 #import <UIKit/UIKit.h>
-#import <AssetsLibrary/AssetsLibrary.h>
-@interface ViewController : UIViewController
+@interface arrayViewController : UIViewController
+{
+    UIImageView *zoomedImage;
+    CGRect rectToReturnTo;
+}
 @property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
 @end

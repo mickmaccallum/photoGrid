@@ -1,15 +1,10 @@
+//  ViewController.m
 //
-//  main.m
-//  photoGrid
+//  Created by Michael MacCallum on 10/28/12.
+//  NO COPYRIGHT AND ABSOLUTELY NO WARRANTY EXPRESSED OR IMPLIED
 //
-//  Created by Web on 10/28/12.
-//  Copyright (c) 2012 HappTech. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
-
 #import "AppDelegate.h"
-
 int main(int argc, char *argv[])
 {
     @autoreleasepool {
